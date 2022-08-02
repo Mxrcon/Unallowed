@@ -1,5 +1,5 @@
 
-Function Get-HelloWorld {
+Function Unallowed {
     <#
     .SYNOPSIS
         Returns Hello world
